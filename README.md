@@ -1,6 +1,6 @@
 # Moje Portfolio
 
-Witaj! Jesteśmy [Twoje Imię i Nazwisko] i to jest moje portfolio, gdzie prezentuję moje projekty oraz umiejętności.
+Witaj! Jesteśmy [bartosz  mosór ] i to jest moje portfolio, gdzie prezentuję moje projekty oraz umiejętności.
 
 ## Projekty
 
