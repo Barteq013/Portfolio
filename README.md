@@ -23,7 +23,7 @@ Witaj! Jesteśmy bartosz  mosór i to jest moje portfolio, gdzie prezentuję moj
 
 -  sport. gry .nowa   technologia
 
-##[ Kontakt]
-{https://www.facebook.com/bartosz.mosor.1}
+## Kontakt
+(Bartosz mosór)[https://www.facebook.com/bartosz.mosor.1]
 
 
