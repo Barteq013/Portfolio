@@ -27,3 +27,4 @@ Witaj! Jesteśmy bartosz  mosór i to jest moje portfolio, gdzie prezentuję moj
 [Bartosz mosór](https://www.facebook.com/bartosz.mosor.1)
 
 
+
