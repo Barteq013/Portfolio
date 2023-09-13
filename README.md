@@ -11,7 +11,7 @@ Witaj! Jesteśmy bartosz  mosór i to jest moje portfolio, gdzie prezentuję moj
 ## Umiejętności
 
 - testowanie maualnie
-- kodowanie w htem 5
+- kodowanie w html 5
 - tworzenie  user story
 
 
