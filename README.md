@@ -8,16 +8,12 @@ Witaj! Jesteśmy bartosz  mosór i to jest moje portfolio, gdzie prezentuję moj
 - sklep iternetowy
 - Technologie użyte: [testowanie  manualne ].
 
-### [Nazwa Projektu 2](link_do_projektu_2)
-- Krótki opis projektu 2.
-- Technologie użyte: [lista technologii].
-
 ## Umiejętności
 
 - testowanie maualnie
 - kodowanie w htem 5
 - tworzenie  user story
-- 
+
 
 ## O mnie
 
